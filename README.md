@@ -1,6 +1,6 @@
 ## The Deseret Keyboard
 
-Developed in Utah by Mormon pioneers, the Deseret alphabet was designed to
+Developed in Utah by Latter-Day Saint pioneers in the 19th century, the Deseret alphabet was designed to
 phonetically represent the English language. And since it was accepted into
 Unicode in 2001, practically every computer on the planet now supports it! So
 don't procrastinate the day of your repentance, start writing holier text today!
