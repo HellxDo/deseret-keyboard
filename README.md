@@ -27,3 +27,7 @@ Dipthongs are created by pressing the X key and then a vowel:
 * X + U = 𐐍 (Ow)
 * X + O = 𐐦 (Oi)
 * X + Y = 𐐧 (Ew)
+
+the deseret script easily animates the addition process
+simply type in your favorite terminal `chmod u+x deseret.sh` and click on the file 
+and your keyboard will automatically change to deseret.
