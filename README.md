@@ -31,3 +31,4 @@ Dipthongs are created by pressing the X key and then a vowel:
 the deseret script easily animates the addition process
 simply type in your favorite terminal `chmod u+x deseret.sh` and click on the file 
 and your keyboard will automatically change to deseret.
+and of course same procedure to the `default.sh` script.
