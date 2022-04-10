@@ -13,7 +13,7 @@ xkb_symbols "deseret" {
     key <AD09> { [U1042C, U10404], [U10432, U1040A], [U1044E, U10426] }; // Long O, Short O, Oi
     key <AD10> { [U10439, U10411]                                     }; // Pee
 
-    key <AC01> { [U1042B, U10402], [U10430, U10408] }; // Long A, Short A
+    key <AC01> { [U1042A, U10402], [U10430, U10408] }; // Long A, Short A
     key <AC02> { [U10445, U1041D], [U10447, U1041F] }; // Es, Esh
     key <AC03> { [U1043C, U10414], [U10444, U1041C] }; // Dee, Thee
     key <AC04> { [U10441, U10419]                   }; // Ef
